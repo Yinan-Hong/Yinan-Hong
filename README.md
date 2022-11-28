@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yinan-Hong
-- 👀 I’m a undergraduate student in Shenzhen Technology University, China, major in Internet of Things.
+- 👀 I’m a undergraduate student in Shenzhen Technology University, China, majoring Internet of Things.
 - 🎓 I'm expecting to receive my bachelor's degree in 2023 spring/summer.
 
 - 🌱 I’m currently working as a research assistant in a team from the University of Hongkong, our study is related to de-fi, web3, NFT, etc.
