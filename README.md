@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Yinan-Hong
-- 👀 I’m a undergraduate student in Shenzhen Technology University, China. I study Internet of Things. Gonna graduate in 2023 summer.
+- 👀 I’m a undergraduate student in Shenzhen Technology University, China, major in Internet of Things.
+- 🎓 I'm expecting to receive my bachelor's degree in 2023 summer.
 
-- 🌱 I’m currently working as a research assistant in a team from the University of Hongkong.
-- 💞️ I have experience in web3 development, data science, back-end engineering, etc.
+- 🌱 I’m currently working as a research assistant in a team from the University of Hongkong, our study is related to de-fi, web3, NFT, etc.
+- 💞️ I have experience in web3 development, data science, back-end engineering...
+
 - 📫 E-mail: yinanhong19@gmail.com, welcome to reachout for any kind of collaboration.
 
 <!---
